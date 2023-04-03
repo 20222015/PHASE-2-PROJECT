@@ -22,6 +22,6 @@ The 3 main features to determine house prices are: Location; Square Feet & House
 
 #### Recomendations & Conclussions
 
-For Home Buyers: Consider purchasing homes with high upgrade potential; houses with great views & don't panic buy because of the month as this is not significant in determining price. Likewise, consider looking for neighbors for an ideal house size.
+For Home Buyers: Consider purchasing homes with high upgrade potential; houses with great views & don't panic buy because of the month as this is not significant in determining price(Average home prices differ by at least 10%). Likewise, consider looking for neighbors for an ideal house size.
 
-For Home Sellers: Look for locations that sell well; consider increase assessed grade as this is a significant factor in determining home price; Consider renovating home by adding additional amenities like bathroom/bedrooms.
+For Home Sellers: Look for locations that sell well; consider increase assessed grade as this is a significant factor in determining home price; Consider renovating and improving home by adding additional amenities like bathroom/bedrooms.
