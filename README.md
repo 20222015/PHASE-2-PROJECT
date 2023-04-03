@@ -9,9 +9,9 @@ King County House Sales dataset used to assist come up with the model.
 
 ### Methodlogy
 
-Data Understanding, Preparation & Exploration\n
-Data Modelling
-Data Analysis
+Data Understanding, Preparation & Exploration\
+Data Modelling\
+Data Analysis\
 Recommendations & Conclusions
 
 #### Data Modeling & Analysis
